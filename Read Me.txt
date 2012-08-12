@@ -1,0 +1,1 @@
+Поместите файл Data Analysis Application.zip в папку C:\Users\$currentuser$\Documents\Visual Studio 2010\Templates\ProjectTemplates
